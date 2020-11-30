@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Convert">" धर्मांतरित"</string>
+    <string name="login">" लॉग इन करें"</string>
+    <string name="change">" भाषा बदलो"</string>
+    <string name="edit">" यहां कुछ टेक्स्ट टाइप करें"</string>
+    <string name="app_name">" द्विभाषी ऐप"</string>
+    <string name="toast">" यह टोस्ट मैसेज है"</string>
+</resources>

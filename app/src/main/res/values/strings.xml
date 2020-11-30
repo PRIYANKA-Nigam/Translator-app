@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bilingual App</string>
+    <string name="Convert">Convert</string>
+    <string name="login">Login</string>
+    <string name="toast">This is Toast Message</string>
+    <string name="change">Change Language</string>
+
+</resources>
